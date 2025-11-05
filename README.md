@@ -109,12 +109,15 @@ Aplikasi siap dijalankan tanpa konfigurasi aset tambahan.
 Berikut tangkapan layar aplikasi (Login, Dashboard, Profil). Simpan file gambar ke folder `docs/screenshots` agar tautan berikut tampil:
 
 - Login
-  ![Login](docs/screenshots/login.png)
+  ![WhatsApp Image 2025-11-05 at 23 08 39](https://github.com/user-attachments/assets/a1d826ea-5d2c-46ef-af23-6629a1de0b1a)
+
 
 - Dashboard
-  ![Dashboard](docs/screenshots/dashboard.png)
+  ![WhatsApp Image 2025-11-05 at 23 09 45](https://github.com/user-attachments/assets/12086c01-e2d9-4943-9b14-2b6217b716f4)
+
 
 - Profil
-  ![Profil](docs/screenshots/profile.png)
+  ![WhatsApp Image 2025-11-05 at 23 10 03](https://github.com/user-attachments/assets/b18c6c93-e3e2-436c-8f17-392df8347687)
 
-Halaman terkait: [dart.LoginPage()](lib/main.dart:25), [dart.DashboardPage()](lib/main.dart:113), [dart.ProfilePage()](lib/main.dart:248).
+
+
